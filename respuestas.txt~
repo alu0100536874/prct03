@@ -289,9 +289,8 @@ c.keys.sort.each { |k| puts c[k] }
 2
 1
 
-56. Escriba la direcci ́n del repositorio que ha creado en GitHub en la tarea habilitada en el campus virtual.
-
-57. Cierre la sesión.
+56. Escriba la direcci ́n del repositorio que ha creado en GitHub en la tarea habilitada en el campus
+virtual.
 
 
 
